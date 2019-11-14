@@ -3,6 +3,7 @@ def main():
     print("""'dhsdhjl'""")
     print("new")
     print("new_2")
+    print("PATCH")
 
 
 if __name__ == '__main__':
